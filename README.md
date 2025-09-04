@@ -33,4 +33,11 @@
 ## 🌱 Currently Learning  
 - Deepening my skills in **.NET & Angular** for full-stack dev  
 - Exploring **data pipelines** and **data engineering workflows**  
-- Sharpening **software design** with UML & architecture patterns  
+- Sharpening **software design** with UML & architecture patterns
+
+---
+<!-- My Stats--->
+![Cao's GitHub stats](https://github-readme-stats.vercel.app/api?username=bocongamco&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocongamco&layout=compact&theme=radical)
+
