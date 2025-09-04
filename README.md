@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Cao! 👋
 
-<!--
-**bocongamco/bocongamco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer Intern @ BeyondEV**  
+⚙️ Building side projects with **C#, .NET, Angular**  
+🎓 Master’s in Data Science @ RMIT (with a strong interest in data engineering)  
+📱 1 year at **Optus** (mix of technical troubleshooting & sales) 
 
-Here are some ideas to get you started:
+## 📈 Experience  
+- **BeyondEV – Software Engineer Intern**  
+   - Building web functionality & internal tools  
+   - Data collection & design of structured data matrices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Optus – Sales & Technical Assistant**  
+   - 1 year combining customer service, sales, and troubleshooting  
+   - Gained exposure to technical problem-solving in a retail setting
+
+## 🌱 Currently Learning  
+- Deepening my skills in **.NET & Angular** for full-stack dev  
+- Exploring **data pipelines** and **data engineering workflows**  
+- Sharpening **software design** with UML & architecture patterns  
